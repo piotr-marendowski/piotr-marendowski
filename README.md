@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @NiceMan1337
-- 👀 I’m interested in learning how to code and stuff.
-- 🌱 I’m currently learning C with K.N. King's "C Programming: A Modern Approach 2nd Edition". 
-- 💞️ I’m looking to collaborate on everything I can.
-- 📫 Reach me on Discord: NiceMan1337#2866.
+<div id="header" align="center">
+  <img src="https://img-9gag-fun.9cache.com/photo/aeAOEV5_460s.jpg" width="100"/>
+</div>
 
 <!---
 NiceMan1337/NiceMan1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
