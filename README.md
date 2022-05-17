@@ -2,6 +2,12 @@
   <img src="https://img-9gag-fun.9cache.com/photo/aeAOEV5_460s.jpg" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UCh1grW57wBTkP6vlFwSULiQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 <div id="header" align="center">
 <h3>Conquering the world by charm of C and twised personality (of C of course!). Also aspiring sript kiddie.</h3>
 <h3>Feel free to use my stuff and make world a better place or something!</h3>
