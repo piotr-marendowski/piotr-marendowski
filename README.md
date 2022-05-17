@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://img-9gag-fun.9cache.com/photo/aeAOEV5_460s.jpg" width="100"/>
 </div>
+<h1>Conquering the world by charm of C and twised personality (of C of course!). Also aspiring sript kiddie.</h1>
 
 <!---
 NiceMan1337/NiceMan1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
