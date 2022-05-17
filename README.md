@@ -2,7 +2,7 @@
   <img src="https://img-9gag-fun.9cache.com/photo/aeAOEV5_460s.jpg" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.youtube.com/channel/UCh1grW57wBTkP6vlFwSULiQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
