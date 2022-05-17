@@ -14,8 +14,8 @@
 </div>
 
 <div ir="header">
-<h3>My stats:</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NiceMan1337&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h3>My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NiceMan1337&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</h3>
 </div>
 
 <!---
