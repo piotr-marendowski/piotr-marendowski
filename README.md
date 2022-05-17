@@ -13,10 +13,6 @@
 <h3>Feel free to use my stuff and make world a better place or something!</h3>
 </div>
 
-<div ir="header">
-<h3>My stats:</h3></div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiceMan1337)](https://git.io/streak-stats)
-
 <!---
 NiceMan1337/NiceMan1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
