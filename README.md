@@ -9,8 +9,8 @@
 </div>
 
 <div id="header" align="center">
-<h3>Conquering the world by charm of C and twised personality (of C of course!). Also aspiring sript kiddie.</h3>
-<h3>Feel free to use my stuff and make world a better place or something!</h3>
+<h3>Trying to understand C :/</h3>
+<h3>Feel free to use my stuff</h3>
 </div>
 
 <!---
