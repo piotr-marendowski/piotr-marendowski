@@ -1,6 +1,5 @@
-<h3 style="align:center">My accounts:</h3>
-  
 <div id="badges" align="center">
+  <h3>My accounts: </h3>
   <a href="https://www.youtube.com/channel/UCh1grW57wBTkP6vlFwSULiQ">
     <img src="youtube.png" height="28" alt="Youtube Badge"/>
   </a>
