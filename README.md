@@ -10,7 +10,7 @@
 
 <div id="header" align="center">
 <h3>Currently learning C, customizing Arch, and having fun.</h3>
-<h3>Feel free to hit me here or on LinkedIn.</h3>
+<h3>Feel free to hit me on LinkedIn anytime.</h3>
 </div>
 
 <!---
