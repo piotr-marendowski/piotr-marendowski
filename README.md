@@ -2,11 +2,9 @@
   <a href="https://www.youtube.com/channel/UCh1grW57wBTkP6vlFwSULiQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div>
-
-<div id="badges" align="center">
+  
   <a href="https://www.linkedin.com/in/piotr-marendowski-350728262/">
-    <img src="linkedin.png"/>
+    <img src="linkedin.png" alt="LinkedIn Badge"/>
   </a>
 </div>
 
