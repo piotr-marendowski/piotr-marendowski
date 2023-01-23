@@ -4,7 +4,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/piotr-marendowski-350728262/">
-    <img src="linkedin.png" width="40" height="20" alt="LinkedIn Badge"/>
+    <img src="linkedin.png" width="75" height="30" alt="LinkedIn Badge"/>
   </a>
 </div>
 
