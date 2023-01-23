@@ -1,6 +1,6 @@
 <div id="badges" align="center">
   <a href="https://www.youtube.com/channel/UCh1grW57wBTkP6vlFwSULiQ">
-    <img src="youtube.png" alt="Youtube Badge"/>
+    <img src="youtube.png" width="28" height="28" alt="Youtube Badge"/>
   </a>
   
   <a href="https://www.linkedin.com/in/piotr-marendowski-350728262/">
