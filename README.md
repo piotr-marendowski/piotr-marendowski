@@ -8,7 +8,7 @@
     <img src="linkedin.png" height="28" alt="Linkedin logo"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/piotr-marendowski-350728262/](https://github.com/piotr-marendowski">
+  <a href="https://github.com/piotr-marendowski">
     <img src="github.png" height="28" alt="Github logo"/>
   </a>
 </div>
