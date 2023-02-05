@@ -14,6 +14,6 @@
 </div>
 
 <div id="header" align="center">
-  <h3>Currently learning C, customizing Arch, and having fun.</h3>
-  <h3><br> Feel free to mail me anytime, and about anything.</h3>
+  <h3>Currently learning C, customizing Arch, and having fun. Looking for things to collaborate on.</h3>
+  <h3>Feel free to mail me anytime, and about anything.</h3>
 </div>
