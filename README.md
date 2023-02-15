@@ -20,8 +20,8 @@ Open source enthusiast looking for things to collaborate on. Currently learning 
 Contact me by mail: piotr-marendowski@tutanota.com
 
 <h3>🌐 Other accounts:</h3>
-[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)
-[Github](https://github.com/piotr-marendowski)
-[ArchWiki](https://wiki.archlinux.org/title/User:Piotr-Marendowski)
+[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)<br>
+[Github](https://github.com/piotr-marendowski)<br>
+[ArchWiki](https://wiki.archlinux.org/title/User:Piotr-Marendowski)<br>
 <br>
 ![](https://komarev.com/ghpvc/?username=piotr-marendowski&style=flat-square&color=green)
