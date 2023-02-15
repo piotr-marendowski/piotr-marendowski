@@ -2,14 +2,14 @@
 Open source enthusiast looking for things to collaborate on. Currently learning C, HTML, CSS, JavaScript and accommodating with daily using Arch Linux. Mail me anytime.
 
 <h3>👨‍💻 Skills:</h3>
-- C (advanced)
-- HTML (intermediate)
-- CSS (intermediate)
-- JavaScript (intermediate)
-- Linux (advanced)
-- Windows (advanced)
-- Git/Github (advanced)
-- Markdown (intermediate)
+- C (advanced) <br>
+- HTML (intermediate) <br>
+- CSS (intermediate) <br>
+- JavaScript (intermediate) <br>
+- Linux (advanced) <br>
+- Windows (advanced) <br>
+- Git/Github (advanced) <br>
+- Markdown (intermediate) <br>
 
 <h3>🌍 Languages (CEFR):</h3>
 - Polish - native <br>
