@@ -12,16 +12,16 @@ Open source enthusiast looking for things to collaborate on. Currently learning 
 - Markdown (intermediate)
 
 <h3>🌍 Languages (CEFR):</h3>
-- Polish - native
-- English - C1 (advanced)
-- Spanish - A2 (intermediate)
+- Polish - native <br>
+- English - C1 (advanced) <br>
+- Spanish - A2 (intermediate) <br>
 
 <h3>💬 Contact:</h3>
 Contact me by mail: piotr-marendowski@tutanota.com
 
 <h3>🌐 Other accounts:</h3>
-[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)<br>
-[Github](https://github.com/piotr-marendowski)<br>
-[ArchWiki](https://wiki.archlinux.org/title/User:Piotr-Marendowski)<br>
+<a href="https://www.linkedin.com/in/piotr-marendowski-350728262">LinkedIn</a><br>
+<a href="https://github.com/piotr-marendowski">Github</a><br>
+<a href="https://wiki.archlinux.org/title/User:Piotr-Marendowski">ArchWiki</a><br>
 <br>
-![](https://komarev.com/ghpvc/?username=piotr-marendowski&style=flat-square&color=green)
+<img src="https://komarev.com/ghpvc/?username=piotr-marendowski&style=flat-square&color=green" title="Visitor count" alt="Visitor count"/>
