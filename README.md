@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=piotr-marendowski&style=flat-square&color=green)
 <h3>About me:</h3>
 Open source enthusiast looking for things to collaborate on. Currently learning C, HTML, CSS, JavaScript and accommodating with daily using Arch Linux. Mail me anytime.
 
