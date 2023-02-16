@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **every project I feel passionate about.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/piotr-marendowski](https://github.com/piotr-marendowski)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/piotr-marendowski)
 
-- 📫 How to reach me **piotr-marendowski@tutanota.com**
+- 📫 How to reach me by mail **piotr-marendowski@tutanota.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/piotr-marendowski-350728262](https://www.linkedin.com/in/piotr-marendowski-350728262)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
