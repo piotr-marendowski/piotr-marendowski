@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">I'm an open source enthusiast looking for things to collaborate on.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piotr-marendowski&label=Profile%20views&color=e66100&style=flat-square" alt="piotr-marendowski" /> </p>
-
 - 🔭 I’m currently working on **projects including C language.**
 
 - 🌱 I’m currently learning **C, JavaScript, Html, CSS.**
@@ -28,7 +26,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piotr-marendowski&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piotr-marendowski&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=piotr-marendowski&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr-marendowski&" alt="piotr-marendowski" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piotr-marendowski&label=Profile%20views&color=e66100&style=flat-square" alt="piotr-marendowski" /> </p>
