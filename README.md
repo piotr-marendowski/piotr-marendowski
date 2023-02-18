@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">I'm an open source enthusiast looking for things to collaborate on.</h3>
 
-- 🔭 I’m currently working on **projects including C language.**
+- 🔭 I’m currently working on **various projects, see my repositories and pull requests.**
 
-- 🌱 I’m currently learning **C, JavaScript, Html, CSS.**
+- 🌱 I’m currently learning **C, Arch Linux, Window Managers, and (Neo)Vim.**
+
+- 💬 I'm speaking **Polish (native), English (advanced), and Spanish (intermediate).**
 
 - 👯 I’m looking to collaborate on **every project I feel passionate about.**
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/piotr-marendowski)
 
-- 📫 How to reach me by mail **piotr-marendowski@tutanota.com**
+- 📫 Reach me by mail **piotr-marendowski@tutanota.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)
 
