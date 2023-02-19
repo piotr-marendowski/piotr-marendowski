@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **every project I feel passionate about.**
 
-- 👨‍💻 All of my projects are available at my [Github](https://github.com/piotr-marendowski)
+- 👨‍💻 All of my projects are available at my **[Github](https://github.com/piotr-marendowski).**
 
-- 📫 Reach me by **[mail](mailto:piotr-marendowski@tutanota.com)**
+- 📫 Reach me by **[mail](mailto:piotr-marendowski@tutanota.com).**
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)
+- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262).**
 
 <h3 align="left">✉️ Connect with me:</h3>
 <p align="left">
