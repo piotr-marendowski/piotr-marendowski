@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/piotr-marendowski)
 
-- 📫 Reach me by mail **piotr-marendowski@tutanota.com**
+- 📫 Reach me by **[mail](mailto:piotr-marendowski@tutanota.com)**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)
 
