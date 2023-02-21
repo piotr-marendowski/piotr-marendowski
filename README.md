@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">I'm an open source enthusiast looking for things to collaborate on.</h3>
 
-- 🔭 I’m currently working on **various projects, see my repositories and pull requests to see them.**
+- 🔭 I’m currently working on **various projects, see my repositories and pull requests.**
 
 - 🌱 I’m currently learning **C, Arch Linux, Window Managers, and (Neo)Vim.**
 
