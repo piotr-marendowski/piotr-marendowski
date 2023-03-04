@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">Thanks for checking me out!</h3>
 
 ### How could you describe yourself?
 I'm a student, who is learning various CS subjects in his spare time. I'm looking for projects, which are worth contributing to. I'm an open source enthusiast, trying to get rid of all propretary software from my life.
@@ -14,7 +13,7 @@ Currently, I'm learning C programming language, Latex, (Neo)vim, as well as Arch
 In school I learned IT fundamentals, networks, operating systems, some HTML, CSS, JavaScript, and PHP.
 
 ### How can reach you?
-By **[mail](mailto:piotr-marendowski@tutanota.com).**, or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262).**.
+By **[mail](mailto:piotr-marendowski@tutanota.com)**, or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)**.
 
 ### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=piotr-marendowski&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
