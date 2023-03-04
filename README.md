@@ -12,7 +12,7 @@ Currently, I'm learning C programming language, Latex, (Neo)vim, as well as Arch
 ### What did you learned so far?
 In school I learned IT fundamentals, networks, operating systems, some HTML, CSS, JavaScript, and PHP.
 
-### How can reach you?
+### How can I reach you?
 By **[mail](mailto:piotr-marendowski@tutanota.com)**, or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)**.
 
 ### 📊 GitHub Stats:
