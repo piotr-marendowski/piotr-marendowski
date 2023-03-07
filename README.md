@@ -6,14 +6,8 @@ I'm a student, who is learning various CS subjects in his spare time. I'm lookin
 ### 📖 What are you learning now?
 Currently, I'm learning C programming language, Latex, (Neo)vim, as well as Arch Linux environment, and Window Managers for it.
 
-### 📚 What did you learned so far?
-In school I learned IT fundamentals, networks, operating systems, some HTML, CSS, JavaScript, and PHP.
-
 ### 🈵 What languages do you know?
 I speak in Polish fluently, well in English, and currently learning Spanish.
-
-### 👨🏻‍💻 What is your experience in CS?
-I don't have experience working in the field, because I'm a student. But I have experience working collaboratively on various projects on Github with different kinds of people.
 
 ### 💬 How can I reach you?
 By **[mail](mailto:piotr-marendowski@tutanota.com)**, or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)**.
