@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 
 ### 📝 How could you describe yourself?
-I'm a student, who is learning various CS subjects in his spare time. I'm looking for projects, which are worth contributing to. I'm an open source enthusiast, trying to get rid of all propretary software from my life.
+I'm a student, who is learning various CS subjects in his spare time. I'm looking for projects, which are worth contributing to. Also I'm an open source enthusiast. I really like ricing my Arch machine, check out my dotfiles!
 
-### 📖 What are you learning now?
-Currently, I'm learning C programming language, Latex, (Neo)vim, as well as Arch Linux environment, and Window Managers for it.
+### 📖 What are you doing now?
+Currently, I'm learning C programming language, Latex, (Neo)vim and Lua alongside it, Git, as well as Arch Linux environment, and Window Managers for it.
 
 ### 🈵 What languages do you know?
-I speak in Polish fluently, well in English, and currently learning Spanish.
+I speak fluently in Polish, very well in English, and currently learning Spanish.
 
 ### 💬 How can I reach you?
 By **[mail](mailto:piotr-marendowski@tutanota.com)**, or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)**.
