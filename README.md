@@ -1,18 +1,9 @@
-<h1 align="center">Hi 👋, I'm Piotr</h1>
+<h1 align="center">Hi, I'm Piotr</h1>
 
-### 📝 How could you describe yourself?
-I'm a student, who is learning various CS subjects in his spare time. I'm looking for projects, which are worth contributing to. Also I'm an open source enthusiast. I really like ricing my Arch machine, check out my dotfiles!
+### About Me:
+I'm an IT student learning various CS subjects and contributing to some open source projects. Right now I'm really interesed in Linux projects and open source software for it. My programming language of choice is C. I'm a Polish native, speaking very well in English, and currently learning Spanish. You can reach me by **[mail](mailto:piotr-marendowski@tutanota.com)** (preferably), or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)**.
 
-### 📖 What are you doing now?
-Currently, I'm learning C programming language, Latex, (Neo)vim and Lua alongside it, Git, as well as Arch Linux environment, and Window Managers for it.
-
-### 🈵 What languages do you know?
-I speak fluently in Polish, very well in English, and currently learning Spanish.
-
-### 💬 How can I reach you?
-By **[mail](mailto:piotr-marendowski@tutanota.com)**, or by **[LinkedIn](https://www.linkedin.com/in/piotr-marendowski-350728262)**.
-
-### 📊 GitHub Stats:
+### GitHub:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=piotr-marendowski&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piotr-marendowski&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piotr-marendowski&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
