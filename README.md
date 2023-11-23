@@ -5,3 +5,7 @@ I'm an IT student learning various CS subjects and contributing to some open sou
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=piotr-marendowski&theme=transparent&hide_border=true&border_radius=0&card_width=500" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+Check out [IvoryOS](https://github.com/piotr-marendowski/ivoryos)!
+</p>
