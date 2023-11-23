@@ -7,5 +7,5 @@ I'm an IT student learning various CS subjects and contributing to some open sou
 </p>
 
 <p align="center">
-  <p>Check out <a href="https://github.com/piotr-marendowski/ivoryos">IvoryOS</a>!</p>
+  Check out <a href="https://github.com/piotr-marendowski/ivoryos">IvoryOS</a>!
 </p>
