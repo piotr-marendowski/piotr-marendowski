@@ -4,5 +4,5 @@ I'm an IT student learning various CS subjects and contributing to some open sou
 
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=piotr-marendowski&theme=transparent&hide_border=true&border_radius=0&card_width=500" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=piotr-marendowski&theme=transparent&hide_border=true&border_radius=0&type=png" alt="GitHub Streak" />
 </p>
